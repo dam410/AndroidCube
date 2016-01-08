@@ -13,7 +13,7 @@ deploy:
 clean:
 	rm -rf bin libs obj
 
-.PHONY superclean:
+.PHONY: superclean
 
 superclean: clean
 	rm -f build.xml local.properties proguard-project.txt project.properties
