@@ -15,4 +15,4 @@ If the developper's mode is enabled on your device, typing `make deploy` should
 push the application to your device.
 
 # Screenshot
-* Coming soon*
+*Coming soon*
